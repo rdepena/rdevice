@@ -1,0 +1,21 @@
+{
+  "name": "rdevice",
+  "version": "0.0.0",
+  "description": "rdevice\r =======",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BeagleHub/rdevice.git"
+  },
+  "author": "",
+  "license": "",
+  "readmeFilename": "README.md",
+  "gitHead": "13c76d909e09f6412d793635c74a5293799c7e7c",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
